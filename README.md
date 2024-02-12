@@ -21,7 +21,9 @@ Para ejecutar el code en el interprete de python, tan solo lo copie y pegue en e
 
 ## Visual Studio Code 
 Para poder ejecutarlo en Visual Studio Code, tuve que colocar el code en el programa, crear un archivo y darle al boton de "play" dentro del aplicativo 
+
 ![vscode](https://i.ibb.co/jhT3YFG/Captura-de-pantalla-2024-02-12-162048.png****)
+
 ## Git Bash
 Se ejecutó el mismo código en Git Bash
 ![gitbash](https://i.ibb.co/bWy3KbD/Captura-de-pantalla-2024-02-12-163253.png)
