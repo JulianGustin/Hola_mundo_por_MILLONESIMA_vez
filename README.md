@@ -10,6 +10,7 @@ if __name__ == "__main__" :
 
 ## Bloc de notas y terminal de windows 
 Hice un archivo en bloc de notas y cambié su terminación a .py para que pueda ejecutarlo con el comando "python" en la terminal de windows. 
+
 ![archivo texto](https://i.ibb.co/yhvFkcZ/Captura-de-pantalla-2024-02-12-163109.png) 
 ![bloc de notas](https://i.ibb.co/cwdS8TF/Captura-de-pantalla-2024-02-12-163124.png) 
 ![archivo](https://i.ibb.co/wBFvSBV/Captura-de-pantalla-2024-02-12-163137.png) 
