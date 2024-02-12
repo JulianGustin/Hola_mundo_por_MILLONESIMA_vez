@@ -26,6 +26,7 @@ Para poder ejecutarlo en Visual Studio Code, tuve que colocar el code en el prog
 
 ## Git Bash
 Se ejecutó el mismo código en Git Bash
+
 ![gitbash](https://i.ibb.co/bWy3KbD/Captura-de-pantalla-2024-02-12-163253.png)
 
 
