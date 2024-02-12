@@ -1,5 +1,5 @@
 # El clasico "Hola mundo" 
-##Reto #2 
+## Reto #2 
 En este repositorio mostraré evidencia de el reto #2, en el que se asignó ejecutar el clásico código "Hello world" (O en español: "Hola mundo) En la **terminal de windows**, en el **interprete de python** y en **VSCode**, adicionalmente (y porque entendí mal el trabajo) lo ejecuté en **Git Bash**. 
 
 ###### Codigo ejecutado
